@@ -1,6 +1,13 @@
 # Automation tests for the Multiplayer-Tic-Tac-Toe game
 
-I've created automation tests to demonstrate how easy it is to simulate multiple players playing in real-time with the [Playwright](https://playwright.dev) framework
+I've created automation tests to demonstrate how easy it is to simulate multiple players playing in real-time with the [Playwright](https://playwright.dev) framework.
+
+
+## Test suite
+
+- ✓  game.spec.js:4:3 › Tic Tac Toe › Cross should win (2s) 
+- ✓  game.spec.js:27:3 › Tic Tac Toe › Circle should win (2s)
+- ✓  game.spec.js:51:3 › Tic Tac Toe › The game should be drawn (1s)
 
 # Two parallel independent browser sessions
 
